@@ -69,6 +69,6 @@ theme: jacman
 ## Docs: http://hexo.io/docs/deployment.html
 
 deploy:
-  type: git
-  repository: https://github.com/shengxinjing/shengxinjing.github.io.git #你的GitHub Pages仓库
+  type: git 
+  repository: git@github.com:shengxinjing/shengxinjing.github.io.git #你的GitHub Pages仓库
   branch: master 
