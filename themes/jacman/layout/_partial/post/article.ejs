@@ -7,6 +7,7 @@
 	<div class="article-content">
 		<% if( table&&(item.toc !== false) && theme.toc.article){ %>
 		<div id="toc" class="toc-article">
+
 			<strong class="toc-title"><%= __('contents') %></strong>
 		<% if(item.list_number == false) {%>
 		<%- toc(item.content,{list_number:false}) %>
@@ -22,3 +23,6 @@
 	<%- partial('pagination') %>
 	<%- partial('comment') %>
 </div>  
+  <span id="busuanzi_container_page_pv" style='margin-right:10px'>
+    本文总阅读量<span id="busuanzi_value_page_pv" style='color:#2ca6cb'></span>次
+  </span>

@@ -2,7 +2,9 @@ title: 读书笔记--奇特的一生
 date: 2015-06-09 10:47:23
 categories:
 - 读书
-tags: [读书,管理]
+tags: 
+- 读书
+- 管理
 ---
 
 ![](http://img4.douban.com/mpic/s27133167.jpg)
