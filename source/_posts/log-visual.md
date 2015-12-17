@@ -6,8 +6,9 @@ tags:
 - 运维
 - python
 ---
+## 为大家分享了一篇基于Python和echarts ，如何做日志可视化的文章。作者详细的描述了整个开发步骤，以及思路。
 ![](http://7xjoq9.com1.z0.glb.clouddn.com/loglog01.png)
-## 终于想着要搭一个博客记点什么
+
 <!--more-->
 
 > 本文需要有一定的python和前端基础，如果没基础的，请关注我后续的基础教程系列博客

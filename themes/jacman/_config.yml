@@ -3,6 +3,8 @@ menu:
   首页: /
   归档: /archives
   读书: /categories/读书/
+  leetcode: /categories/leetcode/
+  编程: /categories/编程/
   关于: /about
 
 ## you can create `tags` and `categories` folders in `../source`.
